@@ -39,7 +39,8 @@ body {
 
 .paper.image {
   padding: 10px;
-  border-radius: 20px;
+  border-radius: 30px; /* Increased the curve */
+  border: 2px solid rgba(0, 0, 0, 0.2); 
 }
 .paper.image p {
   font-size: 30px;
