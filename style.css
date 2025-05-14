@@ -39,6 +39,7 @@ body {
 
 .paper.image {
   padding: 10px;
+  border-radius: 20px;
 }
 .paper.image p {
   font-size: 30px;
